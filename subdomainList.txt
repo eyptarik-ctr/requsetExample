@@ -1,0 +1,15 @@
+mail
+ftp
+local
+drive
+localhust
+busnes
+shoping
+chat
+images
+docs
+busines
+shopping
+blog
+mail
+video
